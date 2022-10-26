@@ -1,0 +1,76 @@
+body {
+  background-color: tan;
+  text-align: center;
+  padding: 20px;
+  margin: auto;
+}
+
+.container-1 {
+  float:left;
+  padding: 15px 35px;
+  border: 2px solid grey;
+  font-weight: bold;
+}
+
+.img-a {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  padding: 5px;
+  vertical-align: middle;
+}
+
+button {
+  opacity: 60%;
+  border: 1px solid black;
+  padding: 1px 5px;
+  border-radius: 5px;
+}
+
+.fa {
+  padding: 5px 10px;
+  width: 10px;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa-facebook {
+  color: black;
+}
+
+.fa-twitter {
+  color: black;
+}
+
+.fa-instagram {
+  color: black;
+}
+
+
+.k9Intro {
+  text-align: right;
+  margin-left: 380px;
+  margin-right: 50px;
+}
+
+h1 {
+  margin-bottom: 50px;
+  font-family: 'Oswald', sans-serif;
+}
+
+#img-b {
+  width: 500px;
+  height: 350px;
+  padding: 20px;
+}
+
+h2 {
+  padding: 8px;
+}
+
+p {
+  border: 0px solid black;
+  margin: 0px 300px;
+  font-weight: 500;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
